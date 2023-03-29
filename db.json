@@ -1,12 +1,12 @@
 {
   "users": [
     {
-      id: 1,
-      name: "Test1"
+      "id": 1,
+      "name": "Test1"
     },
     {
-      id: 2,
-      name: "Karimzhon"
+      "id": 2,
+      "name": "Karimzhon"
     }
    ]
 }
