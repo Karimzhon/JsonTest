@@ -2,7 +2,7 @@
   "items": [
     {
       "type": "Договор",
-      "title": "Анкета",
+      "title": "Договор",
       "status": "Заключен",
       "number": "001",
       "date_start": "04.07.2021",
@@ -11,11 +11,20 @@
     },
     {
       "type": "Договор",
-      "title": "Анкета",
+      "title": "Договор",
       "status": "Расторгнут",
       "number": "002",
       "date_start": "04.07.2021",
       "date_end": "04.07.2022",
+      "file": "https://sample-videos.com/doc/Sample-doc-file-100kb.doc"
+    },
+    {
+      "type": "Договор",
+      "title": "Анкета",
+      "status": "",
+      "number": "",
+      "date_start": "04.07.2021",
+      "date_end": "",
       "file": "https://sample-videos.com/doc/Sample-doc-file-100kb.doc"
     },
     {
