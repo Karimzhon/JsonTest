@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "items": [
     {
-      "id": 1,
-      "title": "hello"
+      type: "Договор",
+      title: "Анкета",
+      number: "001",
+      date_start: "04.07.2021",
+      date_end: "04.07.2022",
+      file: "http://s29.q4cdn.com/175625835/files/doc_downloads/test.pdf"
     }
   ],
   "profile": {
