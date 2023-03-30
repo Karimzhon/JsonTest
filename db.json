@@ -5,7 +5,7 @@
       "title": "Договор",
       "status": "Заключен",
       "number": "001",
-      "date_start": "04.07.2021",
+      "date_start": "14.08.2022",
       "date_end": "04.07.2023",
       "file": "http://s29.q4cdn.com/175625835/files/doc_downloads/test.pdf"
     },
@@ -23,7 +23,7 @@
       "title": "Анкета",
       "status": "",
       "number": "",
-      "date_start": "04.07.2021",
+      "date_start": "04.02.2023",
       "date_end": "",
       "file": "https://sample-videos.com/doc/Sample-doc-file-100kb.doc"
     },
@@ -32,7 +32,7 @@
       "title": "Справка",
       "status": "",
       "number": "",
-      "date_start": "04.07.2021",
+      "date_start": "24.01.2021",
       "date_end": "04.07.2022",
       "file": "https://sample-videos.com/img/Sample-jpg-image-50kb.jpg"
     }
